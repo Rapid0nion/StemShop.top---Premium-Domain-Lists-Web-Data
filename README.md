@@ -1,7 +1,3 @@
-# StemShop.top---Premium-Domain-Lists-Web-Data
-StemShop offers exclusive curated domain lists and web intelligence data — ideal for analytics, SEO, research, and security testing.
-
-
 # StemShop — Domain & Internet Data Marketplace
 
 StemShop is a technical marketplace for **large-scale domain, IP, and infrastructure datasets**  
@@ -115,6 +111,9 @@ Users are responsible for complying with local laws and regulations.
 - 🌐 Website: https://stemshop.top
 - 📰 Blog: https://stemshop.top/blog/
 - 📦 Marketplace: https://stemshop.top
+
+
+adblock, adsense, facebook, googletag, googleanalytics, New Relic, Matomo (Piwik), Yandex.Metrika, Gravatar, Mailchimp, ReCaptcha, Zendesk, BigCommerce, JTL-Shop, magento, nethouse, opencart, osCommerce, prestashop, shopify, Strato shop, woocommerce, xt:Commerce, zencart, backdrop, bitrix, Cornerstone, OnDemand, DataLife Engine, DokuWiki, drupal, jimdo, joomla, livechat, nopCommerce, odoo, orchard, phpBB, plesk, sitefinity, square, squarespace, Strato Builder, tilda, typo3, vbulletin, weebly, wix, wordpress, Divido payment extension for OpenCart, ti-woocommerce-wishlist, Wordpres Ultimate Member, WordPress Easy Digital Downloads, WordPress everest-forms, WordPress GiveWP, WordPress LMS LearnPress Plugin, WordPress WooCommerce Ultimate Gift Card plugin, WP plugin b-blocks, ASP.NET, CakePHP, java, laravel, nuxt, optimizely, php, zend, port 443, port 3306, port 3389, port 4433, port 4443, port 5800, port 8080, port  8443, port 9090, port 9443, port 10443, port 11601, port 11699, port 27017, GeoLite2, Top one million, Authorize.Net, PayPal, stripe, akamai, amazon, apache, cloudflare, cloudfront, envoy, kestrel, lighttpd, litespeed, microsoft-iis, nginx, Openresty (Nginx), pepyaka, sucuri, varnish, vercel, .cn, .com, .de, dns-records-full, domains all, domains-detailed all, .net, .org, .ru, SonicWall, Fortinet, Ivanti, Cisco, Palo Alto Networks, Citrix, Check Point VPN, WatchGuard, RDWeb, F5 — BIG-IP APM
 
 ---
 
